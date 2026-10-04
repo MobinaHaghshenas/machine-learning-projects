@@ -43,7 +43,7 @@ A second scenario introduced a balanced subsample containing inliers and selecte
 
 The experiments demonstrate how sampling strategy and the presence of outliers can significantly affect anomaly detection performance.
 
-## Technologies
+## Tools & Libraries
 
 - Python
 - Pandas
