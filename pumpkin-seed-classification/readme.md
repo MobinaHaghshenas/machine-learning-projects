@@ -68,9 +68,10 @@ These features provide useful information for distinguishing pumpkin seed variet
 - Random Forest
 
 ## Dataset
-Pumpkin Seeds Dataset
-File: Pumpkin_Seeds_Datase.csv
-Project Files
+**Pumpkin Seeds Dataset**
+File: `Pumpkin_Seeds_Datase.csv`
+
+## Project Files
 - `pumpkin-seed-classification.ipynb` — complete classification and model tuning workflow
 - `Pumpkin_Seeds_Datase.csv` — dataset
 - `readme.md` — project documentation
